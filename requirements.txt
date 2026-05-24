@@ -1,0 +1,8 @@
+deepgram-sdk>=3.0.0
+sounddevice
+numpy
+scipy
+pyperclip
+keyboard
+pyautogui
+python-dotenv

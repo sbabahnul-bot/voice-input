@@ -1,4 +1,4 @@
-deepgram-sdk>=3.0.0
+httpx
 sounddevice
 numpy
 scipy
